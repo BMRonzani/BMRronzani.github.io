@@ -33,6 +33,11 @@ img:haver{
 
 .conteiner h1{
     color: #FFF;
+    margin-top: 15px;
+}
+
+.conteiner span{
+    color: #FFF;
     padding: 15px 0;
 }
 
@@ -56,8 +61,8 @@ img:haver{
 }
 
 i{
-    color: #09283E;
-    transition: opacity 0.4s;
+  color: #09283E;
+  transition: opacity 0.4s;
 }
 i:haver{
     opacity: 0.8;
